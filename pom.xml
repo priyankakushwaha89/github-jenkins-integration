@@ -36,7 +36,7 @@
 	</dependencies>
 
 	<build>
-	<finalName>git-jenkins-docker</finalName>
+	<finalName>github-jenkins-docker</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
